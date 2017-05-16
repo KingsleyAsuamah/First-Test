@@ -1,9 +1,10 @@
-<bold> What are the three mistakes of your life? </bold>
+<bold> *What are the three mistakes of your life?* </bold>
 
 #Pavithra Ashok
 *Pavithra Ashok, works at Cognizant*
------------------------------------------------------------------------
-Answered Fri · Upvoted by Tej Flow
+
+Answered Fri · Upvoted by Tej Flow \
+
 My BTech in Information Technology . I feel this a boring profession, 
 at one stage you get clueless and you will lose interest in your work
 Not pursued any hobbies : As a young girl I have concentra...
