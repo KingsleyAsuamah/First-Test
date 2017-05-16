@@ -10,8 +10,10 @@ at one stage you get clueless and you will lose interest in your work
 Not pursued any hobbies : As a young girl I have concentra...
 -----------------------------------------------------------------------
 
-Old Text
+Old Text http://take.ms/KgTMI
 # First-Test
 Tutorial Repository
 This is a test commit message to differentiate the Master from a branch.
 It is not really a {code} {/code}
+
+www.konga.com
